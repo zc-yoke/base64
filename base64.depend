@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1502373896 source:e:\000_coding\pdm_develop\base64\decode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"b64.h"
+
+1502373896 e:\000_coding\pdm_develop\base64\b64.h
+
+1502373896 source:e:\000_coding\pdm_develop\base64\encode.c
+	<stdio.h>
+	<stdlib.h>
+	"b64.h"
+
+1553266454 source:e:\000_coding\pdm_develop\base64\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"b64.h"
+
+1502373896 source:e:\000_coding\pdm_develop\base64\src\decode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"b64.h"
+
+1553691595 e:\000_coding\pdm_develop\base64\include\b64.h
+	<crtdefs.h>
+
+1502373896 source:e:\000_coding\pdm_develop\base64\src\encode.c
+	<stdio.h>
+	<stdlib.h>
+	"b64.h"
+
+1554292008 source:e:\000_coding\pdm_develop\base64\test\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<assert.h>
+	"b64.h"
+
