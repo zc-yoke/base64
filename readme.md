@@ -1,3 +1,4 @@
+'''
 /*
 功能：这是一个base64的编码和解码库
 源码来源：https://github.com/littlstar/b64.c
@@ -25,3 +26,4 @@ int main (void) {
   free(dec);
   return 0;
 }
+'''
